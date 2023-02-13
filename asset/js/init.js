@@ -8,7 +8,7 @@
       directionNav: false,
       smoothHeight: true,
       slideshowSpeed: 6000,
-      animationSpeed: 200,
+      animationSpeed: 100,
       randomize: false
    });
 });
